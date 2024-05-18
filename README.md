@@ -8,3 +8,8 @@ You've been asked by your manager to create an exploratory dashboard that helps 
   2. Determine peak travel times
   3. Analyze revenue from different ticket types & classes  
   4. Diagnose on-time performance and contributing factors
+
+**#About the Data Set**
+The data contains mock train ticket sales for National Rail in the UK, from January to April 2024, including details on the type of ticket, the date & time for each journey, the departure & arrival stations, the ticket price, and more.
+
+More Reference:https://mavenanalytics.io/challenges/maven-rail-challenge/32

@@ -11,6 +11,5 @@ You've been asked by your manager to create an exploratory dashboard that helps 
 
 **About the Data Set**
 The data contains mock train ticket sales for National Rail in the UK, from January to April 2024, including details on the type of ticket, the date & time for each journey, the departure & arrival stations, the ticket price, and more.
-
-  -> More Reference:https://mavenanalytics.io/challenges/maven-rail-challenge/32
-  -> Linkedin :https://www.linkedin.com/posts/r-vishwa_businessintelligence-powerbi-dataanalytics-activity-7200393226980085760-P51j?utm_source=share&utm_medium=member_desktop
+  1. More Reference:https://mavenanalytics.io/challenges/maven-rail-challenge/32
+  2. Linkdin :https://www.linkedin.com/posts/r-vishwa_businessintelligence-powerbi-dataanalytics-activity-7200393226980085760-P51j?utm_source=share&utm_medium=member_desktop
